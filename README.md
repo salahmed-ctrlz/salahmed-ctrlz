@@ -1,5 +1,3 @@
----
-
 # 👋🏻 Hi, I'm Salahuddin | صَلَاحُ الدّينْ
 
 **🛜 Network Engineer | Cybersecurity Analyst | 👨🏻‍💻 Web Developer**
@@ -41,5 +39,3 @@ Network & Telecommunications engineer with a focus on:
 📧 **[medkoursalaheddine@gmail.com](mailto:medkoursalaheddine@gmail.com)**  
 🌐 [Portfolio](https://salahmed-ctrlz.github.io/salaheddine-medkour-portfolio/)  
 🔗 [LinkedIn](https://www.linkedin.com/in/salah-eddine-medkour/)  
-
----
