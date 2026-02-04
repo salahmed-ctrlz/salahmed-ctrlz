@@ -34,9 +34,3 @@
 * **Development:** React, TypeScript, Python, PowerShell.
 
 ---
-
-### 📊 Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salahmed-ctrlz&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salahmed-ctrlz&layout=compact&theme=tokyonight&hide_title=true&hide_border=true)
