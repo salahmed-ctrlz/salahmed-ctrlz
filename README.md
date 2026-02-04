@@ -14,8 +14,16 @@
 > *Offline-first quiz platform built for connectivity-constrained environments.*
 > **Tech:** Python, React, Local-First Architecture.
 
+**🔐 [WebRTC E2EE Video Chat](https://github.com/salahmed-ctrlz/WebRTC-VideoChatApp-with-True-EndToEndEncryption-Enabled)**
+> *Secure video conferencing implementation featuring true End-to-End Encryption.*
+> **Tech:** WebRTC, Socket.io, Crypto API.
+
+**⚙️ [99SAK (PowerShell Swiss Army Knife)](https://github.com/salahmed-ctrlz/99SAK-PowershellSwissArmyKnife)**
+> *Comprehensive automation and diagnostics suite for Windows environments.*
+> **Tech:** PowerShell, System Administration.
+
 **📄 [Research: WebRTC Encryption](https://www.researchgate.net/publication/392926889_Implementation_of_an_End-to-End_Encryption_Mechanism_in_WebRTC_Video_Streaming/)**
-> *Academic paper on implementing End-to-End Encryption in real-time video streaming.*
+> *Academic paper on implementing privacy protocols in real-time streaming.*
 
 ---
 
@@ -23,7 +31,7 @@
 
 * **Network Engineering:** Routing protocols, Network Analysis, Infrastructure.
 * **Cybersecurity:** Ethical Hacking, OSINT, Secure Web Development.
-* **Development:** React, TypeScript, Python.
+* **Development:** React, TypeScript, Python, PowerShell.
 
 ---
 
