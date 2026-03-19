@@ -1,36 +1,54 @@
-# Salahuddin | صَلَاحُ الدّينْ
+<div align="center">
+  <img src="https://raw.githubusercontent.com/salahmed-ctrlz/salahmed-ctrlz/main/SalahuddinX.png" width="130" height="130" style="border-radius: 50%; object-fit: cover;">
 
-**Network Engineer | Cybersecurity Analyst | Web Developer**
+  <h1>Salahuddin | صَلَاحُ الدّينْ</h1>
+  <p><b>Salah Eddine Medkour</b></p>
+  <p>Network Engineer • Web Developer • University Instructor • Writer • Lifetime Learner</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-333333?style=flat-square&logo=google-chrome&logoColor=white)](https://salahmed-ctrlz.github.io/salaheddine-medkour-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salah-eddine-medkour/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:medkoursalaheddine@gmail.com)
+  [Portfolio](https://salahmed-ctrlz.github.io/salaheddine-medkour-portfolio/) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/salah-eddine-medkour/) &nbsp;&middot;&nbsp; [Email](mailto:medkoursalaheddine@gmail.com)
+</div>
+
+<br>
+
+### 📂 Open Source
+
+**[AirQuiz](https://github.com/salahmed-ctrlz/AirQuiz)**
+> Offline-first exam platform built for connectivity-constrained environments.
 
 ---
 
-### ⚡ Selected Work
+### ⚡ Projects
 
-**📂 [AirQuiz](https://github.com/salahmed-ctrlz/AirQuiz)**
-> *Offline-first quiz platform built for connectivity-constrained environments.*
-> **Tech:** Python, React, Local-First Architecture.
+**[WebRTC E2EE Video Chat](https://github.com/salahmed-ctrlz/WebRTC-VideoChatApp-with-True-EndToEndEncryption-Enabled)**
+> *Master's Thesis:* Design and implementation of a true end-to-end encryption layer for WebRTC video streams using the Insertable Streams API and ECDH key exchange.
 
-**🔐 [WebRTC E2EE Video Chat](https://github.com/salahmed-ctrlz/WebRTC-VideoChatApp-with-True-EndToEndEncryption-Enabled)**
-> *Secure video conferencing implementation featuring true End-to-End Encryption.*
-> **Tech:** WebRTC, Socket.io, Crypto API.
+**[99SAK (PowerShell Swiss Army Knife)](https://github.com/salahmed-ctrlz/99SAK-PowershellSwissArmyKnife)**
+> Comprehensive automation and diagnostics suite for Windows environments.
 
-**⚙️ [99SAK (PowerShell Swiss Army Knife)](https://github.com/salahmed-ctrlz/99SAK-PowershellSwissArmyKnife)**
-> *Comprehensive automation and diagnostics suite for Windows environments.*
-> **Tech:** PowerShell, System Administration.
+---
 
-**📄 [Research: WebRTC Encryption](https://www.researchgate.net/publication/392926889_Implementation_of_an_End-to-End_Encryption_Mechanism_in_WebRTC_Video_Streaming/)**
-> *Academic paper on implementing privacy protocols in real-time streaming.*
+### 🧪 Lab Docs
+
+**[CorpDZ](https://github.com/salahmed-ctrlz/CorpDZ)**
+> Network infrastructure and enterprise deployment documentation.
+
+---
+
+### 📄 Published Papers
+
+**[The "Shared Identity" Crisis](https://www.researchgate.net/publication/398259988_The_Shared_Identity_Crisis_A_Forensic_and_Performance_Analysis_of_Carrier-Grade_NAT_CGNAT_in_Algeria's_Fiber_Network)**
+<br><sub>A Technical Report and Performance Analysis of Carrier-Grade NAT (CGNAT) in Algeria's Fiber Network</sub>
+
+**[A Preliminary Study of AI-Driven Scams in Algeria: Exposure, Detection, and a Roadmap](https://www.researchgate.net/publication/395466783_A_Preliminary_Study_of_AI-Driven_Scams_in_Algeria_Exposure_Detection_and_a_Roadmap)**
+<br><sub>An analysis of AI-generated fraud exposure and attack patterns in Algeria, proposing a roadmap for digital forensics and public awareness.</sub>
+
+**[Implementation of an End-to-End Encryption Mechanism in WebRTC Video Streaming](https://www.researchgate.net/publication/392926889_Implementation_of_an_End-to-End_Encryption_Mechanism_in_WebRTC_Video_Streaming)**
+<br><sub>Design and implementation of a true end-to-end encryption layer for WebRTC video streams using the Insertable Streams API and ECDH key exchange.</sub>
 
 ---
 
 ### 🛠️ Technical Focus
 
-* **Network Engineering:** Routing protocols, Network Analysis, Infrastructure.
-* **Cybersecurity:** Ethical Hacking, OSINT, Secure Web Development.
-* **Development:** React, TypeScript, Python, PowerShell.
-
----
+* **Network Engineering:** Routing Protocols, Network Analysis, Infrastructure
+* **Cybersecurity:** Ethical Hacking, OSINT, Secure Web Development
+* **Development:** React, TypeScript, Python, PowerShell
