@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/salahmed-ctrlz/salahmed-ctrlz/main/SalahuddinX.png" width="130" height="130" style="border-radius: 50%; object-fit: cover;">
+  <img src="https://raw.githubusercontent.com/salahmed-ctrlz/salahmed-ctrlz/main/CircularHeadshot.png" width="130" height="130" style="border-radius: 50%; object-fit: cover;">
 
   <h1>Salahuddin | صَلَاحُ الدّينْ</h1>
   <p><b>Salah Eddine Medkour</b></p>
