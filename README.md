@@ -10,14 +10,14 @@
 
 <br>
 
-### 📂 Open Source
+### 📂 Open Source Projects
 
 **[AirQuiz](https://github.com/salahmed-ctrlz/AirQuiz)**
-> Offline-first exam platform built for connectivity-constrained environments.
+> Offline-first assessments platform built for connectivity-constrained environments, especially for Universities.
 
 ---
 
-### ⚡ Projects
+### ⚡ Key Projects
 
 **[WebRTC E2EE Video Chat](https://github.com/salahmed-ctrlz/WebRTC-VideoChatApp-with-True-EndToEndEncryption-Enabled)**
 > *Master's Thesis:* Design and implementation of a true end-to-end encryption layer for WebRTC video streams using the Insertable Streams API and ECDH key exchange.
@@ -30,7 +30,7 @@
 ### 🧪 Lab Docs
 
 **[CorpDZ](https://github.com/salahmed-ctrlz/CorpDZ)**
-> Network infrastructure and enterprise deployment documentation.
+> Network infrastructure and enterprise Virtual Lab (VMs, Networks, Pentesting, IT support ..) deployment documentation.
 
 ---
 
