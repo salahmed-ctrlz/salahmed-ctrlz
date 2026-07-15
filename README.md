@@ -12,7 +12,7 @@
 
 ---
 
-Networks & Telecommunications Master's graduate building and shipping production web platforms, infrastructure tools, and civic applications. 20+ projects delivered across real estate, SaaS, civic tech, and professional services — with clients in Algeria, France, and Qatar.
+Networks & Telecommunications Master's graduate building and shipping production web platforms, infrastructure tools, and civic applications. 20+ projects delivered across real estate, SaaS, civic tech, and professional services.
 
 ---
 
