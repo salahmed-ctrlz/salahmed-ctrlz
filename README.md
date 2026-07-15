@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/salahmed-ctrlz/salahmed-ctrlz/main/CircularHeadshot.png" width="110" height="110">
   <br><br>
   <h2>Salah Eddine Medkour · صَلَاحُ الدّينْ</h2>
-  <p>Web Developer · Network Engineer · University Instructor · AI Orchestrator</p>
+  <p>Web Developer · Network Engineer · Technical Instructor</p>
   <p>
     <a href="https://salaheddinemedkour.me">Portfolio</a> &nbsp;·&nbsp;
     <a href="https://www.linkedin.com/in/salah-eddine-medkour/">LinkedIn</a> &nbsp;·&nbsp;
@@ -12,7 +12,7 @@
 
 ---
 
-I build production-grade web platforms using AI orchestration as a core workflow — shipping marketplaces, SaaS tools, civic apps, and MVPs without writing a single line of code by hand. 20+ projects delivered in 14 months.
+Networks & Telecommunications Master's graduate building and shipping production web platforms, infrastructure tools, and civic applications. 20+ projects delivered across real estate, SaaS, civic tech, and professional services — with clients in Algeria, France, and Qatar.
 
 ---
 
